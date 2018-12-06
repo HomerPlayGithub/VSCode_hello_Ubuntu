@@ -9,7 +9,7 @@
         "command": "g++",
         "args": [
           "*.c",
-          "-o a.out",
+          "-o b.out",
           "-std=c++11",
           "-I.",
           "-g",

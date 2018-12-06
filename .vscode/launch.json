@@ -5,7 +5,7 @@
         "name": "C++ WSL",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceRoot}/a.out",
+        "program": "${workspaceRoot}/b.out.dSYM/Contents/Resources/DWARF/b.out",
         "args": ["-fThreading"],
         "stopAtEntry": false,
         "cwd": "${workspaceRoot}",
